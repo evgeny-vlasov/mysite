@@ -1,0 +1,8 @@
+name: "Evgeny Vlasov"
+navbar:
+  title: "Evgeny Vlasov personal page"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html

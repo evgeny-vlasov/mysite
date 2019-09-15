@@ -1,0 +1,5 @@
+---
+title: "About Me"
+---
+
+I am data scientist at New Land Technology, a small startup developing automatization for agriculture. My role is to make and train models for detection of plants' pests and diseases by images aquired from cameras. I use Python and Tensorflow for my models. Also I am freelance data analyst. I use R for data analysis.
