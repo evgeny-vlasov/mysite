@@ -1,0 +1,10 @@
+---
+title: "contacts"
+---
+
+![](email.png)
+evgeny@vlasov.ca  
+<br>![](linkedin.png)
+https://www.linkedin.com/in/vlasoveugene  
+<br>![](map.png)
+Calgary, Canada  

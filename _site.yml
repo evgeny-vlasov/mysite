@@ -1,4 +1,5 @@
 name: "Evgeny Vlasov"
+exclude: ["README.md", "LICENCE"]
 navbar:
   title: "Evgeny Vlasov personal page"
   left:
@@ -6,3 +7,14 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Contacts"
+      href: contacts.html
+    - text: "CV"
+      href: cv.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css

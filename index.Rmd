@@ -2,4 +2,16 @@
 title: "Evgeny Vlasov"
 ---
 
-Hi! I am data analyst and this is my personal page. 
+![](evgeny.jpg)
+Hi! I am data analyst and this is my personal page.  
+```{r echo=FALSE}
+y <- read.csv("livestock.csv")
+plot(y$REF_DATE, y$VALUE, 
+     col = y$type, 
+     pch = 16, 
+     bg = "blue",
+     xlab = "Year",
+     ylab = "Dollar per 100 pound",
+     main = "Price of lamb and pork in Canada")
+legend(x = "topleft", legend = c("hogs", "lambs"), col = c(1:2), pch = 16)
+```
